@@ -10,12 +10,9 @@
 #import "Obstacle.h"
 
 @implementation MainScene {
-    
     CCNode *_ground1;
     CCNode *_ground2;
     NSArray *_grounds;
-    
-    
     
     NSTimeInterval _sinceTouch;
     
@@ -145,10 +142,8 @@
         if (groundScreenPosition.x <= (-1 * ground.contentSize.width)) {
             ground.position = ccp(ground.position.x + 2 * ground.contentSize.width, ground.position.y);
         }
-    
-
- 
     }
+    
     NSMutableArray *offScreenObstacles = nil;
     
     for (CCNode *obstacle in _obstacles) {
