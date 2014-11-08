@@ -10,7 +10,7 @@
 		<false/>
 	</dict>
 	<key>UUID</key>
-	<integer>14</integer>
+	<integer>18</integer>
 	<key>centeredOrigin</key>
 	<false/>
 	<key>currentResolution</key>
@@ -132,7 +132,7 @@
 			</dict>
 			<dict>
 				<key>UUID</key>
-				<integer>3</integer>
+				<integer>14</integer>
 				<key>baseClass</key>
 				<string>CCSprite</string>
 				<key>children</key>
@@ -140,9 +140,9 @@
 				<key>customClass</key>
 				<string></string>
 				<key>displayName</key>
-				<string>clouds</string>
+				<string>CCSprite</string>
 				<key>memberVarAssignmentName</key>
-				<string>_clouds1</string>
+				<string>_cloud1</string>
 				<key>memberVarAssignmentType</key>
 				<integer>1</integer>
 				<key>properties</key>
@@ -223,7 +223,7 @@
 			</dict>
 			<dict>
 				<key>UUID</key>
-				<integer>12</integer>
+				<integer>15</integer>
 				<key>baseClass</key>
 				<string>CCSprite</string>
 				<key>children</key>
@@ -231,9 +231,9 @@
 				<key>customClass</key>
 				<string></string>
 				<key>displayName</key>
-				<string>clouds</string>
+				<string>CCSprite</string>
 				<key>memberVarAssignmentName</key>
-				<string>_clouds2</string>
+				<string>_cloud2</string>
 				<key>memberVarAssignmentType</key>
 				<integer>1</integer>
 				<key>properties</key>
@@ -312,7 +312,7 @@
 			</dict>
 			<dict>
 				<key>UUID</key>
-				<integer>4</integer>
+				<integer>16</integer>
 				<key>baseClass</key>
 				<string>CCSprite</string>
 				<key>children</key>
@@ -320,7 +320,7 @@
 				<key>customClass</key>
 				<string></string>
 				<key>displayName</key>
-				<string>bush</string>
+				<string>CCSprite</string>
 				<key>memberVarAssignmentName</key>
 				<string>_bush1</string>
 				<key>memberVarAssignmentType</key>
@@ -401,7 +401,7 @@
 			</dict>
 			<dict>
 				<key>UUID</key>
-				<integer>13</integer>
+				<integer>17</integer>
 				<key>baseClass</key>
 				<string>CCSprite</string>
 				<key>children</key>
@@ -409,7 +409,7 @@
 				<key>customClass</key>
 				<string></string>
 				<key>displayName</key>
-				<string>bush</string>
+				<string>CCSprite</string>
 				<key>memberVarAssignmentName</key>
 				<string>_bush2</string>
 				<key>memberVarAssignmentType</key>
